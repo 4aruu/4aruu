@@ -1,6 +1,6 @@
 #  Hey, I’m Aaron!👋 ✨ 
 
-Student | 💡 Builder | 🚀 Always learning
+Graduate | 💡 Builder | 🚀 Always learning
 <br>I'm a tech enthusiast who loves turning ideas into smart solutions. I thrive at the intersection of creativity and code — blending logic, design, and user experience.
 
 Currently working on **LUMIRA** — a voice-enabled AI assistant for exhibition/product demos.
