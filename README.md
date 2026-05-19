@@ -32,7 +32,7 @@ Computer Vision → Nutritional Analysis → Healthy Swaps
 <br>An intelligent system that analyzes food items to suggest healthier alternatives and nutritional breakdowns using computer vision.
 
 🔗 [https://github.com/4aruu/food_alternate](https://github.com/4aruu/food_alternate)
-🔗 [[https://github.com/4aruu/food_alternate](https://food-alternate.vercel.app/)
+🔗 [https://food-alternate.vercel.app](https://food-alternate.vercel.app)
 
 <br>
 
