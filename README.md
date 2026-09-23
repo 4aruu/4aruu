@@ -9,7 +9,7 @@ Graduate | 💡 Builder | 🚀 Always learning
 
 * 🎓 **B.Tech in IT / Computer Science**
 * 💼 Actively working on **AI, Smart Systems, and Interactive Web Apps**
-* 🌱 I’m currently exploring **Computer Vision & NLP**
+* 🌱 I’m currently exploring **Cloud Arch. & NLP**
 * 🧩 Strong interest in **System Design & User Experience**
 * 💬 Ask me about **Java, Python, React, or Smart Automation**
 
